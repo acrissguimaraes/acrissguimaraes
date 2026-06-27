@@ -8,12 +8,59 @@ Data analyst with strong experience in optimizing operational performance throug
 
 ## 🤖 Technical Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel" alt="Excel" height="35"/>
-  <img src="https://img.shields.io/badge/-Colab-333333?style=flat&logo=google-colab" alt="Google Colab" height="35"/>
-  <img src="https://img.shields.io/badge/-SQL_Server-333333?style=flat&logo=microsoft-sql-server" alt="SQL Server" height="35"/>
-  <img src="https://img.shields.io/badge/-PowerPoint-333333?style=flat&logo=microsoft-powerpoint" alt="PowerPoint" height="35"/>
-  <img src="https://img.shields.io/badge/-Power_BI-333333?style=flat&logo=microsoft-power-bi" alt="Power BI" height="35"/>
-  <img src="https://img.shields.io/badge/-Looker_Studio-333333?style=flat&logo=google" alt="Looker Studio" height="35"/>
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python" height="35"/>
-</p>
+<img 
+    align="left" 
+    alt="Microsoft Excel"
+    title="Microsoft Excel" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/452066/ms-excel.svg" 
+/>
+<img 
+    align="left" 
+    alt="Google Colab" 
+    title="Google Colab"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg"
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="Microsoft PowerPoint"
+    title="Microsoft PowerPoint" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/373989/powerpoint.svg" 
+/>
+<img 
+    align="left" 
+    alt="Microsoft Power BI" 
+    title="Microsoft Power BI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" 
+/>
+<img 
+    align="left" 
+    alt="Google Data Studio"
+    title="Google Data Studio" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-datastudio-icon.png" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
