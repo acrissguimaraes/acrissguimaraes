@@ -8,9 +8,12 @@ Data analyst with strong experience in optimizing operational performance throug
 
 ## 🤖 Technical Skills
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Badge"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" alt="Power BI Badge"/>
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-</div>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/excel.svg" alt="Excel" width="45" height="45" style="vertical-align: middle; margin-right: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="45" height="45" style="vertical-align: middle; margin-right: 10px;"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="45" height="45" style="vertical-align: middle; margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/ppt.svg" alt="PowerPoint" width="45" height="45" style="vertical-align: middle; margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI_Bevel.svg" alt="Power BI" width="45" height="45" style="vertical-align: middle; margin-right: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/google_data_studio/google_data_studio-icon.svg" alt="Looker Studio" width="45" height="45" style="vertical-align: middle; margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" style="vertical-align: middle; margin-right: 10px;"/>
+</p>
